@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
-CV
-======
-My latest CV can be downloaded [here](https://github.com/pikapika2022/pikapika2022.github.io/blob/master/_pages/Qiuye_CV.pdf).
+
+My latest CV can be downloaded [here](https://github.com/pikapika2022/pikapika2022.github.io/blob/master/files/Qiuye_CV.pdf).
 
 Education
 ======
