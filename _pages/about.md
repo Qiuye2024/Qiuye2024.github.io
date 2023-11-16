@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-I am a PhD candidate at the School of Computer Science, University of Oklahoma. My current research focuses on cybersecurity under the supervision of Dr. Song Fang. I received my M.Eng. degree from Xidian University in 2019 and B.Eng. degree from Yanshan University in 2016.
+I am a PhD candidate at the School of Computer Science, University of Oklahoma. My current research focuses on cybersecurity under the supervision of Dr. Song Fang. I received my M.Eng. degree from Xidian University in 2019 and B.Eng. degree from Yanshan University in 2016. 
 
-<font color='red'> I am applying for tenure-track faculty positions！ </font><br />
+<font color='red'> I am applying for tenure-track faculty positions！ </font><br /> Please feel free to contact me at *qiuye.he AT ou.edu* if there is any opportunities and questions.
 
 Research Interests
 ======
