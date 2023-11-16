@@ -26,17 +26,17 @@ Research Interests
 Latest News
 ======
 
-+ [Nov 2023] Our paper "Precise Wireless Camera Localization Leveraging Traffic-aided Spatial Analysis" has been accepted to IEEE TMC.
-+ [Oct 2023] I am honored to receive the CANSec 2023 travel grant.
-+ [Aug 2023] Our paper "When Free Tier Becomes Free to Enter: A Non-Intrusive Way to Identify Security Cameras with no Cloud Subscription" has been accepted to ACM CCS 2023. 
-+ [July 2023] Our paper "Phantom-CSI Attacks against Wireless Liveness Detection" has been accepted to RAID 2023. 
-+ [Nov 2022] Our paper "HoneyBreath: An Ambush Tactic Against Wireless Breath Monitoring" won EAI MobiQuitous 2022 Best Paper Award!
-+ [Oct 2022] I am honored to receive the CANSec 2022 travel grant.
-+ [Oct 2022] I am honored to receive the ACM CCS 2022 travel grant. 
-+ [Sep 2022] I am honored to receive the CS Alumni Graduate Fellowship. 
-+ [Sep 2022] Our paper "HoneyBreath: An Ambush Tactic Against Wireless Breath Monitoring" has been accepted to EAI MobiQuitous 2022. 
-+ [April 2022] Our paper "WINK: Wireless Inference of Numerical Keystrokes via Zero-Training Spatiotemporal Analysis" has been accepted to ACM CCS 2022. 
-+ [Jan 2022] Our paper "Proactive Anti-Eavesdropping With Trap Deployment in Wireless Networks" has been accepted to IEEE TDSC.
-+ [May 2021] Our paper "MotionCompass: Pinpointing Wireless Camera Via Motion-activated Traffic" has been accepted to ACM MobiSys 2021.
++ [Nov. 2023] Our paper "Precise Wireless Camera Localization Leveraging Traffic-aided Spatial Analysis" has been accepted to IEEE TMC.
++ [Oct. 2023] I am honored to receive the CANSec 2023 travel grant.
++ [Aug. 2023] Our paper "When Free Tier Becomes Free to Enter: A Non-Intrusive Way to Identify Security Cameras with no Cloud Subscription" has been accepted to ACM CCS 2023. 
++ [July. 2023] Our paper "Phantom-CSI Attacks against Wireless Liveness Detection" has been accepted to RAID 2023. 
++ [Nov. 2022] Our paper "HoneyBreath: An Ambush Tactic Against Wireless Breath Monitoring" won EAI MobiQuitous 2022 Best Paper Award!
++ [Oct. 2022] I am honored to receive the CANSec 2022 travel grant.
++ [Oct. 2022] I am honored to receive the ACM CCS 2022 travel grant. 
++ [Sep. 2022] I am honored to receive the CS Alumni Graduate Fellowship. 
++ [Sep. 2022] Our paper "HoneyBreath: An Ambush Tactic Against Wireless Breath Monitoring" has been accepted to EAI MobiQuitous 2022. 
++ [Apr. 2022] Our paper "WINK: Wireless Inference of Numerical Keystrokes via Zero-Training Spatiotemporal Analysis" has been accepted to ACM CCS 2022. 
++ [Jan. 2022] Our paper "Proactive Anti-Eavesdropping With Trap Deployment in Wireless Networks" has been accepted to IEEE TDSC.
++ [May. 2021] Our paper "MotionCompass: Pinpointing Wireless Camera Via Motion-activated Traffic" has been accepted to ACM MobiSys 2021.
 
 
