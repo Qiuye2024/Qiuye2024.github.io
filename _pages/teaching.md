@@ -4,7 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 redirect_from:
-  - /teaching
+  - /teaching/
+  - /teaching.html
 ---
 
 I serve as a teaching assistant in courses [CS-4173 Computer Security](https://www.coursicle.com/ou/courses/CS/4173/), [CS-5173 Computer Security](https://www.coursicle.com/ou/courses/CS/4173/), [CS/DSA-4413 Algorithm Analysis](https://www.coursicle.com/ou/courses/CS/4413/), [CS-5593 Data Mining](https://www.coursicle.com/ou/courses/CS/5593/).
