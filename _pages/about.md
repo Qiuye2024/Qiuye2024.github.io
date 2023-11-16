@@ -13,6 +13,8 @@ Short Bio
 
 I am a PhD candidate at the School of Computer Science, University of Oklahoma. My current research focuses on cybersecurity under the supervision of Dr. Song Fang. I received my M.Eng. degree from Xidian University in 2019 and B.Eng. degree from Yanshan University in 2016.
 
+<font color="#dd0000">I am applying for tenure-track faculty positions！</font><br />
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
