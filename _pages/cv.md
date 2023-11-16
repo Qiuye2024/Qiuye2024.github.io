@@ -9,7 +9,7 @@ redirect_from:
 
 CV
 ======
-My latest CV can be downloaded here.
+My latest CV can be downloaded [here].
 
 Education
 ======
