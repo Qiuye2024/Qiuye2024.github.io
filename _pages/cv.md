@@ -27,10 +27,10 @@ Honors & Awards
 * CANSec Student Travel Grant, NSF, 2022. 
 * ACM CCS Student Travel Grant, NSF, 2022. 
 * GCoE PhD Recruitment Excellence Fellowship, The University of Oklahoma, 2019.
-* Academic Excellent Scholarships (Top 10\%), Xidian University, 2018.
-* Academic Excellent Scholarships (Top 5\%), Xidian University, 2016.
-* Recommended to the Graduate School with Entrance Exam Waiver (Top 10\%), anshan University, 2016.
-* Academic Excellent Scholarships (Top 10\%), Yanshan University, 2014.
+* Academic Excellent Scholarships (Top 10%), Xidian University, 2018.
+* Academic Excellent Scholarships (Top 5%), Xidian University, 2016.
+* Recommended to the Graduate School with Entrance Exam Waiver (Top 10%), anshan University, 2016.
+* Academic Excellent Scholarships (Top 10%), Yanshan University, 2014.
     
 Talks
 ======
