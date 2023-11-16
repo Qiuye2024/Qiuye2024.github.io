@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Conference Papers
 =======
 
-* *When Free Tier Becomes Free to Enter: A Non-Intrusive Way to Identify Security Cameras with no Cloud Subscription* [paper] <br>
+* *When Free Tier Becomes Free to Enter: A Non-Intrusive Way to Identify Security Cameras with no Cloud Subscription* [[paper](https://qiuye.info/files/sample_pdf.pdf)] <br>
   Yan He\*, **Qiuye He**\*, Song Fang, Yao Liu (* The first two authors contributed equally to this paper.) <br>
   in Proceedings of the 30th ACM Conference on Computer and Communications Security (ACM CCS 2023), Copenhagen, Denmark, November 2023. (Acceptance Rate: 19.9% = 158/795)
 
@@ -34,7 +34,7 @@ Conference Papers
 Journal Papers
 =======
 
-* *Precise Wireless Camera Localization Leveraging Traffic-aided Spatial Analysis* [paper](https://qiuye.info/files/Qiuye_CV.pdf) <br>
+* *Precise Wireless Camera Localization Leveraging Traffic-aided Spatial Analysis* [[paper](https://qiuye.info/files/sample_pdf.pdf)] <br>
   Yan He, **Qiuye He**, Song Fang, Yao Liu <br>
   in IEEE Transactions on Mobile Computing (IEEE TMC), November 2023.
 
@@ -45,11 +45,11 @@ Journal Papers
 
 Manuscripts Under Review
 =======
-* *A Survey on Human Profile Information Inference via Wireless Signals* [paper] <br>
+* *A Survey on Human Profile Information Inference via Wireless Signals* <br>
   **Qiuye He**, Edwin Yang, Song Fang <br>
   in IEEE Communications Surveys and Tutorials (IEEE COMST).
 
-* *Revisiting Wireless Breath and Crowd Inference Attacks with Defensive Deception* [paper] <br>
+* *Revisiting Wireless Breath and Crowd Inference Attacks with Defensive Deception* <br>
   **Qiuye He**, Edwin Yang, Song Fang, Shangqing Zhao <br>
   in IEEE/ACM Transactions on Networking (IEEE/ACM ToN).
 
