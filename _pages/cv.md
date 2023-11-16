@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My latest CV can be downloaded [here](https://github.com/pikapika2022/pikapika2022.github.io/blob/master/files/Qiuye_CV.pdf).
+My latest CV can be downloaded [here]<embed src="{{https://github.com/pikapika2022/pikapika2022.github.io/blob/master}}/files/Qiuye_CV.pdf" width="600" height="700" type='application/pdf'> 
 
 Education
 ======
