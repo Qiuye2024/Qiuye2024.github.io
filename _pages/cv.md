@@ -12,9 +12,12 @@ My latest CV can be downloaded [here](<embed src="{{https://github.com/pikapika2
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Candidate in Computer Science, The University of Oklahoma, Norman, OK, USA
+  * Aug. 2019 - May. 2024 (Expected)
+* M.E. in Electrical and Computer Engineering, Xidian University, Xi'an, Shaanxi, China
+  * Sept. 2016 - Jul. 2019
+* B.E. in Electrical and Computer Engineering, Yanshan University, Qinhuangdao, Hebei, China
+  * Sept. 2012 - Jul. 2016
 
 Work experience
 ======
