@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: "Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+CV
+======
+My latest CV can be downloaded here.
 
 Education
 ======
