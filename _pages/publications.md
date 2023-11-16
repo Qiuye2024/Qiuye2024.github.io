@@ -11,9 +11,7 @@ Conference Papers
 =======
 
 * *When Free Tier Becomes Free to Enter: A Non-Intrusive Way to Identify Security Cameras with no Cloud Subscription* [paper]
-
-  Yan He\*, **Qiuye He**\*, Song Fang, Yao Liu (* The first two authors contributed equally to this paper.)
-  
+  Yan He\*, **Qiuye He**\*, Song Fang, Yao Liu (* The first two authors contributed equally to this paper.) 
   in Proceedings of the 30th ACM Conference on Computer and Communications Security (ACM CCS 2023), Copenhagen, Denmark, November 2023. (Acceptance Rate: 19.9\% = 158/795)
 
 * *Phantom-CSI Attacks against Wireless Liveness Detection* [paper]
