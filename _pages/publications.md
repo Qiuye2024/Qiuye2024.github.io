@@ -14,7 +14,7 @@ Conference Papers
   Yan He\*, **Qiuye He**\*, Song Fang, Yao Liu (* The first two authors contributed equally to this paper.) <br>
   in Proceedings of the 30th ACM Conference on Computer and Communications Security (ACM CCS 2023), Copenhagen, Denmark, November 2023. (Acceptance Rate: 19.9% = 158/795)
 
-* *Phantom-CSI Attacks against Wireless Liveness Detection* [[paper](https://qiuye.info/files/Phantom-CSI_attacks.pdf)] <br>
+* *Phantom-CSI Attacks against Wireless Liveness Detection* [[paper](https://qiuye.info/files/Phantom-CSI_attack.pdf)] <br>
    **Qiuye He**, Song Fang <br>
    in Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023), Hong Kong, Hong Kong, October 2023. (Acceptance Rate: 23.5% = 50/213)
 
