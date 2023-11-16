@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My latest CV can be downloaded [here](<embed src="{{https://github.com/pikapika2022/pikapika2022.github.io/tree/master}}/files/Qiuye_CV.pdf" width="600" height="700" type='application/pdf'>).
+My latest CV can be downloaded ![here](https://github.com/pikapika2022/pikapika2022.github.io/tree/master}}/files/Qiuye_CV.pdf).
 
 Education
 ======
@@ -34,9 +34,9 @@ Honors & Awards
     
 Talks
 ======
-* [Oct. 2023] Phantom-CSI Attacks against Wireless Liveness Detection}, in the 16th The Central Area Networking and Security Workshop (CANSec), University of Kansas, Lawrence, KS.
+* [Oct. 2023] Phantom-CSI Attacks against Wireless Liveness Detection, in the 16th The Central Area Networking and Security Workshop (CANSec), University of Kansas, Lawrence, KS.
 * [Nov. 2022] HoneyBreath: An Ambush Tactic Against Wireless Breath Monitoring, in 19th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (EAI MobiQuitous), Virtual. 
-* [Oct. 2022] HoneyBreath: An Ambush Tactic Against Wireless Breath Monitoring}, in the 15th The Central Area Networking and Security Workshop (CANSec), Wichita State University, Wichita, KS. 
+* [Oct. 2022] HoneyBreath: An Ambush Tactic Against Wireless Breath Monitoring, in the 15th The Central Area Networking and Security Workshop (CANSec), Wichita State University, Wichita, KS. 
 
 Professional Service
 ======
@@ -59,8 +59,8 @@ Professional Service
 
 Media Coverage
 ======
-* [Nov. 2022] Study Aims to Improve Privacy From Digitally Enabled Hidden Devices. OU News. [Link](https://ou.edu/research-norman/news-events/2022/university-of-oklahoma-study-aims-to-improve-privacy-from-digitally-enabled-hidden-devices)
-* [Nov. 2022] OU studying privacy of listening smart devices. FOX News. [Link](https://www.fox23.com/news/ou-studying-privacy-listening-smart-devices/EIKZ4W5CSRBI3IRUEXGZVXDHMI/)
-* [Nov. 2022] Researcher at OU developing app to detect hidden cameras. KOCO 5 News. [Link](https://www.koco.com/article/oklahoma-research-app-detect-hidden-cameras/41959062)
+* [Nov. 2022] Study Aims to Improve Privacy From Digitally Enabled Hidden Devices. OU News. [[Link](https://ou.edu/research-norman/news-events/2022/university-of-oklahoma-study-aims-to-improve-privacy-from-digitally-enabled-hidden-devices)]
+* [Nov. 2022] OU studying privacy of listening smart devices. FOX News. [[Link](https://www.fox23.com/news/ou-studying-privacy-listening-smart-devices/EIKZ4W5CSRBI3IRUEXGZVXDHMI/)]
+* [Nov. 2022] Researcher at OU developing app to detect hidden cameras. KOCO 5 News. [[Link](https://www.koco.com/article/oklahoma-research-app-detect-hidden-cameras/41959062)]
   
 
