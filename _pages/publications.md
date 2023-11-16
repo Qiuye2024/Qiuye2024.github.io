@@ -12,11 +12,11 @@ Conference Papers
 
 * *When Free Tier Becomes Free to Enter: A Non-Intrusive Way to Identify Security Cameras with no Cloud Subscription* [paper] <br>
   Yan He\*, **Qiuye He**\*, Song Fang, Yao Liu (* The first two authors contributed equally to this paper.) <br>
-  in Proceedings of the 30th ACM Conference on Computer and Communications Security (ACM CCS 2023), Copenhagen, Denmark, November 2023. (Acceptance Rate: 19.9\% = 158/795)
+  in Proceedings of the 30th ACM Conference on Computer and Communications Security (ACM CCS 2023), Copenhagen, Denmark, November 2023. (Acceptance Rate: 19.9% = 158/795)
 
 * *Phantom-CSI Attacks against Wireless Liveness Detection* [paper] <br>
    **Qiuye He**, Song Fang <br>
-   in Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023), Hong Kong, Hong Kong, October 2023. (Acceptance Rate: 23.5\% = 50/213)
+   in Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023), Hong Kong, Hong Kong, October 2023. (Acceptance Rate: 23.5% = 50/213)
 
 * *HoneyBreath: An Ambush Tactic Against Wireless Breath Monitoring* [paper][Best Paper Award] <br>
   **Qiuye He**, Edwin Yang, Song Fang, Shangqing Zhao <br>
@@ -24,11 +24,11 @@ Conference Papers
 
 * *WINK: Wireless Inference of Numerical Keystrokes via Zero-Training Spatiotemporal Analysis* [paper][Artifacts Badge] <br>
   Edwin Yang, **Qiuye He**, Song Fang <br>
-  in Proceedings of the 29th ACM Conference on Computer and Communications Security (ACM CCS 2022), Los Angeles, United States, November 2022. (Acceptance Rate: 17.9\% = 58/324) 
+  in Proceedings of the 29th ACM Conference on Computer and Communications Security (ACM CCS 2022), Los Angeles, United States, November 2022. (Acceptance Rate: 17.9% = 58/324) 
 
 * *MotionCompass: Pinpointing Wireless Camera Via Motion-activated Traffic* [paper][Artifacts Badge] <br>
   Yan He, **Qiuye He**, Song Fang, Yao Liu <br>
-  in Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2021), Virtual, WI, USA, June 2021. (Acceptance Rate: 21.7\% = 36/166)
+  in Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2021), Virtual, WI, USA, June 2021. (Acceptance Rate: 21.7% = 36/166)
 
  
 Journal Papers
