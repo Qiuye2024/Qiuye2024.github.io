@@ -38,5 +38,6 @@ Latest News
 + [Apr. 2022] Our paper "WINK: Wireless Inference of Numerical Keystrokes via Zero-Training Spatiotemporal Analysis" has been accepted to ACM CCS 2022. 
 + [Jan. 2022] Our paper "Proactive Anti-Eavesdropping With Trap Deployment in Wireless Networks" has been accepted to IEEE TDSC.
 + [May. 2021] Our paper "MotionCompass: Pinpointing Wireless Camera Via Motion-activated Traffic" has been accepted to ACM MobiSys 2021.
++ [Sep. 2019] I am honored to receive the GCoE PhD Recruitment Excellence Fellowship. 
 
 
