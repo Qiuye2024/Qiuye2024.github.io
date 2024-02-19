@@ -17,7 +17,7 @@ I am a PhD candidate at the School of Computer Science, University of Oklahoma. 
 Research Interests
 ======
 
-+ Wireless Security & Privacy 
++ Cybersecurity 
 
 + Mobile Sensing and Computing
 
