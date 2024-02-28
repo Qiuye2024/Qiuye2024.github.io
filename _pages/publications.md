@@ -33,6 +33,9 @@ Conference Papers
  
 Journal Papers
 =======
+* *A Survey on Human Profile Information Inference via Wireless Signals* [[paper](https://qiuye.info/files/sample_pdf.pdf)] <br>
+  **Qiuye He**, Edwin Yang, Song Fang <br>
+  in IEEE Communications Surveys and Tutorials (IEEE COMST), March 2024.
 
 * *Precise Wireless Camera Localization Leveraging Traffic-aided Spatial Analysis* [[paper](https://qiuye.info/files/sample_pdf.pdf)] <br>
   Yan He, **Qiuye He**, Song Fang, Yao Liu <br>
@@ -45,9 +48,6 @@ Journal Papers
 
 Manuscripts Under Review
 =======
-* *A Survey on Human Profile Information Inference via Wireless Signals* <br>
-  **Qiuye He**, Edwin Yang, Song Fang <br>
-  in IEEE Communications Surveys and Tutorials (IEEE COMST).
 
 * *Revisiting Wireless Breath and Crowd Inference Attacks with Defensive Deception* <br>
   **Qiuye He**, Edwin Yang, Song Fang, Shangqing Zhao <br>
