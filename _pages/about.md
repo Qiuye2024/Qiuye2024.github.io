@@ -26,6 +26,7 @@ Research Interests
 Latest News
 ======
 
++ [Mar. 2024] Our paper "A Survey on Human Profile Information Inference via Wireless Signals" has been accepted to IEEE COMST.
 + [Nov. 2023] Our paper "Precise Wireless Camera Localization Leveraging Traffic-aided Spatial Analysis" has been accepted to IEEE TMC.
 + [Oct. 2023] I am honored to receive the CANSec 2023 travel grant.
 + [Aug. 2023] Our paper "When Free Tier Becomes Free to Enter: A Non-Intrusive Way to Identify Security Cameras with no Cloud Subscription" has been accepted to ACM CCS 2023. 
