@@ -14,7 +14,7 @@ I am a PhD candidate at the School of Computer Science, University of Oklahoma. 
 
 <font color='red'> Starting in August 2024, I will be an assistant professor of Computer Science at the University of Missouri - Kansas City (UMKC).</font>
 
-<font color='red'> I am looking for self-motivated students who are interested in Cybersecurity and Mobile Computing & Sensing! Multiple Ph.D. openings are available in our group. </font> Please feel free to contact me at *qiuye.he AT ou.edu*.</font>
+<font color='red'> I am looking for self-motivated students who are interested in Cybersecurity and Mobile Computing & Sensing! Multiple Ph.D. openings are available in our group. Please feel free to contact me at *qiuye.he AT ou.edu*.</font>
 
 
 Research Interests
