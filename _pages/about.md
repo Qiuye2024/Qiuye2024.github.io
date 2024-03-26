@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 
-
 I am a PhD candidate at the School of Computer Science, University of Oklahoma. My current research focuses on cybersecurity under the supervision of Dr. Song Fang. I received my M.Eng. degree from Xidian University in 2019 and B.Eng. degree from Yanshan University in 2016. 
 
 <font color='red'> Starting in August 2024, I will be an assistant professor of Computer Science at the University of Missouri - Kansas City (UMKC).
 
 <font color='red'> I am looking for self-motivated students who are interested in Cybersecurity and Mobile Computing & Sensing! Multiple Ph.D. openings are available in our group.
-
 
 
 Research Interests
