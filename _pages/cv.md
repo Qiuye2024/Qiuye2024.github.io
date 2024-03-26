@@ -49,7 +49,7 @@ Professional Service
 * Reviewer for Journals
   * IEEE Transactions on Dependable and Secure Computing (TDSC)
   * IEEE Transactions on Mobile Computing (TMC)
-  * IEEE Transactions on Information Forensics \& Security (TIFS)
+  * IEEE Transactions on Information Forensics & Security (TIFS)
   * IEEE/ACM Transactions on Networking (ToN)
   * IEEE Transactions on Wireless Communications (TWC)
   * Information Systems Journal (ISJ)
