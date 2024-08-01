@@ -10,11 +10,10 @@ redirect_from:
 
 
 
-I am a PhD candidate at the School of Computer Science, University of Oklahoma. My current research focuses on cybersecurity under the supervision of Dr. Song Fang. I received my M.Eng. degree from Xidian University in 2019 and B.Eng. degree from Yanshan University in 2016. 
-
-<font color='red'> Starting in August 2024, I will be an assistant professor of Computer Science at the University of Missouri - Kansas City (UMKC).</font>
+I am an Assistant Professor in the Department of Computer Science and Information Technology at the University of Missouri-Kansas City (UMKC). I received my Ph.D. from the University of Oklahoma (OU) in 2024 under the supervision of Dr. Song Fang, my M.Eng. degree from Xidian University in 2019, and my B.Eng. degree from Yanshan University in 2016.
 
 <font color='red'> I am looking for self-motivated students who are interested in Cybersecurity and Mobile Computing & Sensing! Multiple Ph.D. openings are available in our group. Please feel free to contact me at *qiuye.he AT umkc.edu*.</font>
+<p>&nbsp;</p>
 
 Research Interests
 ======
@@ -28,6 +27,8 @@ Research Interests
 Latest News
 ======
 
++ [Apr. 2024] I have been selected to receive the Gallogly College of Engineering (GCoE) Dissertation Excellence Award.
++ [Apr. 2024] I have completed my Ph.D. thesis defense and received my Ph.D. degree.
 + [Mar. 2024] Our paper "A Survey on Human Profile Information Inference via Wireless Signals" has been accepted to IEEE COMST.
 + [Nov. 2023] Our paper "Precise Wireless Camera Localization Leveraging Traffic-aided Spatial Analysis" has been accepted to IEEE TMC.
 + [Oct. 2023] I am honored to receive the CANSec 2023 travel grant.
