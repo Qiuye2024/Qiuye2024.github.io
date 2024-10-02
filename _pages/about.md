@@ -27,6 +27,8 @@ Research Interests
 Latest News
 ======
 
++ [Aug. 2024] Our paper "Revisiting Wireless Breath and Crowd Inference Attacks with Defensive Deception" has been accepted to IEEE/ACM ToN.
++ [Apr. 2024] I will join the University of Missouri - Kansas City as a Tenure-Track Assistant Professor in Fall 2024!
 + [Apr. 2024] I have been selected to receive the Gallogly College of Engineering (GCoE) Dissertation Excellence Award.
 + [Apr. 2024] I have completed my Ph.D. thesis defense and received my Ph.D. degree.
 + [Mar. 2024] Our paper "A Survey on Human Profile Information Inference via Wireless Signals" has been accepted to IEEE COMST.
