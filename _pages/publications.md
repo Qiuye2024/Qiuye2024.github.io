@@ -33,6 +33,10 @@ Conference Papers
  
 Journal Papers
 =======
+* *Revisiting Wireless Breath and Crowd Inference Attacks with Defensive Deception* [[paper](https://qiuye.info/files/sample_pdf.pdf)]<br>
+  **Qiuye He**, Edwin Yang, Song Fang, Shangqing Zhao <br>
+  in IEEE/ACM Transactions on Networking (IEEE/ACM ToN), September 2024.
+  
 * *A Survey on Human Profile Information Inference via Wireless Signals* [[paper](https://qiuye.info/files/sample_pdf.pdf)] <br>
   **Qiuye He**, Edwin Yang, Song Fang <br>
   in IEEE Communications Surveys and Tutorials (IEEE COMST), March 2024.
@@ -44,14 +48,6 @@ Journal Papers
 * *Proactive Anti-Eavesdropping With Trap Deployment in Wireless Networks* [[paper](https://qiuye.info/files/Proactive_Anti-Eavesdropping.pdf)] <br>
   **Qiuye He**, Song Fang, Tao Wang, Yao Liu, Shangqing Zhao, Zhuo Lu <br>
   in IEEE Transactions on Dependable and Secure Computing (IEEE TDSC), January 2022.
-
-
-Manuscripts Under Review
-=======
-
-* *Revisiting Wireless Breath and Crowd Inference Attacks with Defensive Deception* <br>
-  **Qiuye He**, Edwin Yang, Song Fang, Shangqing Zhao <br>
-  in IEEE/ACM Transactions on Networking (IEEE/ACM ToN).
 
 
 U.S. Patent
