@@ -12,8 +12,8 @@ My latest CV can be downloaded [here](https://qiuye.info/files/Qiuye_CV.pdf).
 
 Education
 ======
-* Ph.D. Candidate in Computer Science, The University of Oklahoma
-  * Aug. 2019 - May. 2024 (Expected)
+* Ph.D. in Computer Science, The University of Oklahoma
+  * Aug. 2019 - May. 2024
 * M.E. in Electrical and Computer Engineering, Xidian University
   * Sept. 2016 - Jul. 2019
 * B.E. in Electrical and Computer Engineering, Yanshan University
