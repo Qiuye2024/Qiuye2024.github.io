@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Conference Papers
 =======
 
-* *When Free Tier Becomes Free to Enter: A Non-Intrusive Way to Identify Security Cameras with no Cloud Subscription* [[paper](https://qiuye.info/files/sample_pdf.pdf)] <br>
+* *When Free Tier Becomes Free to Enter: A Non-Intrusive Way to Identify Security Cameras with no Cloud Subscription* [[paper](https://qiuye.info/files/WeakCamId.pdf)] <br>
   Yan He\*, **Qiuye He**\*, Song Fang, Yao Liu (* The first two authors contributed equally to this paper.) <br>
   in Proceedings of the 30th ACM Conference on Computer and Communications Security (ACM CCS 2023), Copenhagen, Denmark, November 2023. (Acceptance Rate: 19.9% = 158/795)
 
@@ -33,15 +33,15 @@ Conference Papers
  
 Journal Papers
 =======
-* *Revisiting Wireless Breath and Crowd Inference Attacks with Defensive Deception* [[paper](https://qiuye.info/files/sample_pdf.pdf)]<br>
+* *Revisiting Wireless Breath and Crowd Inference Attacks with Defensive Deception* [[paper](https://qiuye.info/files/Revisiting_Breath_and_Crowd.pdf)]<br>
   **Qiuye He**, Edwin Yang, Song Fang, Shangqing Zhao <br>
   in IEEE/ACM Transactions on Networking (IEEE/ACM ToN), September 2024.
   
-* *A Survey on Human Profile Information Inference via Wireless Signals* [[paper](https://qiuye.info/files/sample_pdf.pdf)] <br>
+* *A Survey on Human Profile Information Inference via Wireless Signals* [[paper](https://qiuye.info/files/A_Survey_on_HPI.pdf)] <br>
   **Qiuye He**, Edwin Yang, Song Fang <br>
   in IEEE Communications Surveys and Tutorials (IEEE COMST), March 2024.
 
-* *Precise Wireless Camera Localization Leveraging Traffic-aided Spatial Analysis* [[paper](https://qiuye.info/files/sample_pdf.pdf)] <br>
+* *Precise Wireless Camera Localization Leveraging Traffic-aided Spatial Analysis* [[paper](https://qiuye.info/files/Precise_Wireless_Camera_Localization.pdf)] <br>
   Yan He, **Qiuye He**, Song Fang, Yao Liu <br>
   in IEEE Transactions on Mobile Computing (IEEE TMC), November 2023.
 
