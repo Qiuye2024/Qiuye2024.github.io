@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My latest CV can be downloaded [here](https://qiuye.info/files/Qiuye_CV.pdf).
+My latest CV can be downloaded [here](https://qiuye2024.github.io/files/Qiuye_CV.pdf).
 
 Education
 ======
